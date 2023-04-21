@@ -1,0 +1,12 @@
+C:\Users\Alex\source\repos\OTI\2022-Poluation\2022-Poluation\bin\Debug\2022-Poluation.exe.config
+C:\Users\Alex\source\repos\OTI\2022-Poluation\2022-Poluation\bin\Debug\2022-Poluation.exe
+C:\Users\Alex\source\repos\OTI\2022-Poluation\2022-Poluation\bin\Debug\2022-Poluation.pdb
+C:\Users\Alex\source\repos\OTI\2022-Poluation\2022-Poluation\obj\Debug\2022-Poluation.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\OTI\2022-Poluation\2022-Poluation\obj\Debug\_2022_Poluation.Properties.Resources.resources
+C:\Users\Alex\source\repos\OTI\2022-Poluation\2022-Poluation\obj\Debug\2022-Poluation.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\OTI\2022-Poluation\2022-Poluation\obj\Debug\2022-Poluation.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\OTI\2022-Poluation\2022-Poluation\obj\Debug\2022-Poluation.exe
+C:\Users\Alex\source\repos\OTI\2022-Poluation\2022-Poluation\obj\Debug\2022-Poluation.pdb
+C:\Users\Alex\source\repos\OTI\2022-Poluation\2022-Poluation\obj\Debug\_2022_Poluation.Autentificare.resources
+C:\Users\Alex\source\repos\OTI\2022-Poluation\2022-Poluation\obj\Debug\_2022_Poluation.Inregistrare.resources
+C:\Users\Alex\source\repos\OTI\2022-Poluation\2022-Poluation\obj\Debug\_2022_Poluation.Vizualizare.resources
